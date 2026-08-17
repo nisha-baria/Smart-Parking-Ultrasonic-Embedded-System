@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+firmware = "../firmware/smart_parking_system.ino"
+elf = "../firmware/build/esp32.esp32.esp32/smart_parking_system.ino.elf"
+
+[diagram]
+file = "diagram.json"

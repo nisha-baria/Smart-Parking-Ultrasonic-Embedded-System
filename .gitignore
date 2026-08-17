@@ -1,0 +1,24 @@
+# Arduino / PlatformIO Build Output
+build/
+*.hex
+*.elf
+*.bin
+
+# Python / Streamlit Cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.streamlit/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# OS / Editor Specific Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
